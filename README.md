@@ -79,26 +79,35 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+### Program :
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-22 at 13 36 18_1e87fbc5](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/68e390fd-8b0b-4e92-897a-5cc233a9f6e3)
+![WhatsApp Image 2024-04-22 at 13 36 19_f6131d45](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/69808922-ceca-4558-b1a2-b5aafe6ac10b)
+![WhatsApp Image 2024-04-22 at 13 36 19_8dddd85d](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/d409b115-772f-4cc5-8c07-83aa9ffaae64)
+![WhatsApp Image 2024-04-22 at 13 36 20_12a3a645](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/8d0d5f92-6509-4b4a-9e7b-a709a90852bb)
 
 
 
 ### output video and screen shots of pick and place 
+
+
+![WhatsApp Image 2024-04-22 at 13 36 14_79612555](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/6c6bf0c0-f483-46e6-ab09-1cc53386a75a)
+![WhatsApp Image 2024-04-22 at 13 36 15_4bdf47bb](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/c480b2e3-573b-401e-91ef-70e450248f17)
+![WhatsApp Image 2024-04-22 at 13 36 15_4401c30d](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/7463294b-0fd2-45e5-b50c-73ca843c0ef9)
+![WhatsApp Image 2024-04-22 at 13 36 16_428eb3dd](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/a1710de6-a3b7-40b4-b3e5-9cdd114fcafb)
+![WhatsApp Image 2024-04-22 at 13 36 16_3cf56680](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/073c6321-49ff-45bf-a3da-2b84532fa5c3)
+![WhatsApp Image 2024-04-22 at 13 36 17_37797837](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/e1b7cff8-fade-4801-828d-ddf664cdb733)
+![WhatsApp Image 2024-04-22 at 13 36 17_25392483](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/f15ac9c0-9239-4ee3-b966-3553dee0d955)
+![WhatsApp Image 2024-04-22 at 13 36 17_c2a4c8ba](https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/41a19bbe-75dd-4238-91a8-fb70d7cd7e2d)
+
+
+
+https://github.com/varsha-2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119288183/1e4d9066-cdf6-448d-a7a4-f180267db32f
+
+
+
+
 
 
 
@@ -108,7 +117,7 @@ and click on the connect icon
 
 ### Results: 
 
-
+thus we got the output to pick and place a regular shape using two finger gripper on the conveyor belt. 
 
 
 
